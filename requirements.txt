@@ -1,0 +1,1 @@
+Flask==2.3.2  # Or whichever version you are using
